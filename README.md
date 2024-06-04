@@ -1,5 +1,5 @@
 # stl-algorithms
-Practice tutorial of various stl algorithms that read and manipulate data from a file
+Practice tutorial of various STL algorithms that read and manipulate data from a file
 
 A C++ practice tutorial, creating a module that accepts a command-line argument name of a file containing records corresponding to a collection of songs. 
 
